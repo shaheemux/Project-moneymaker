@@ -1,4 +1,4 @@
-
+<!-- 
 <template>
  <div id="navbar">  
   <nav class="navbar bg-white border-gray-200 dark:bg-gray-900 fixed w-full z-50 top-0 start-0 z-50">
@@ -271,4 +271,4 @@ img {
   height: auto;
   width: 100%;
 }
-</style>
+</style> -->
